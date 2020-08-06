@@ -1,3 +1,5 @@
+// Original implementation was taken from https://github.com/telegramdesktop/tdesktop
+// Copyright (c) 2014-2020 The Telegram Desktop Authors.
 #pragma once
 
 namespace anim
